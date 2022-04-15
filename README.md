@@ -8,9 +8,9 @@
 - Uso de funções
 - Aprendizado sobre escopo global e local
 - Estrutura condicional (if...else | switch)
-- Prática de exercícios
+- Prática de exercícios em sala + para entregar
 
-**Desafio casa** | exercícios
+**Desafio casa** | 
 
 ```
 
