@@ -10,7 +10,7 @@
 - Estrutura condicional (if...else | switch)
 - Prática de exercícios
 
-**Desafio casa**
+**Desafio casa** | exercícios
 :-----------------------------------------------------------------------------------------
 1 | Elabore um algoritmo que receba um número (1-7) e devolva o dia da semana correspondente.
 2 | Elabore um algoritmo que receba dois números e determine qual é o maior entre eles, se os 
