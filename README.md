@@ -1,6 +1,6 @@
 # Lógica 2 - funções {s3}
 
-#### **Resolução da atividade - semana 03 (lógica aplicada e javascript)**
+### **Resolução da atividade - semana 03 (lógica aplicada e javascript)**
 
 ##### Uso de funções e estrutura condicional
 
@@ -11,11 +11,12 @@
 - Prática de exercícios
 
 **Desafio casa**
-:----------------------------------------------------------------------------------------------------------------------:
+:-----------------------------------------------------------------------------------------
 1 | Elabore um algoritmo que receba um número (1-7) e devolva o dia da semana correspondente.
-2 | Elabore um algoritmo que receba dois números e determine qual é o maior entre eles, se os números forem iguais mostre uma mensagem no console "Os números são iguais.
-3 | Crie um algoritmo que receba três notas de um aluno, calcule sua média e mostre as seguintes mensagens de acordo   
-  |com cada situação:
+2 | Elabore um algoritmo que receba dois números e determine qual é o maior entre eles, se os 
+  |números forem iguais mostre uma mensagem no console "Os números são iguais.
+3 |Crie um algoritmo que receba três notas de um aluno, ca lcule sua média e mostre as seguintes 
+  |mensagens de acordo com cada situação:
   |Se a media for igual ou maior que 7 - Aprovado
   |Se a media for maior e igual a cinco e menor que 7 - Recuperação
   |Se a media for menor que 5 - Reprovado
